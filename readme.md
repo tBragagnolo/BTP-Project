@@ -1,7 +1,7 @@
 # Project: Disaster and Emergency Aid Management 
 ## Current project state
  - Milestones 3 (V1.0) released
-
+ - Milestone 3 overview session on Wed March 23rd at 9:50
 ## Use case
 
 When disaster hits a nation, the most urgent task is to be able to provide the people affected with what they need as quickly and as efficiently possible.
@@ -23,7 +23,7 @@ Overview and Q&A sessions will be held on the dates and times shown below. this 
 |------|:---:|:---:|:----|
 | [MS1](#milestone-1) | V1.0 | [Watch the Overview Session (March 7th, 10AM)](https://youtu.be/ZW09NrkUSzA) ||
 | [MS2](#milestone-2) | V1.0 | [Watch the Overview Session (March 7th, 10AM)](https://youtu.be/1qxhpcRfE8Q) ||
-| [MS3](#milestone-3) | V0.9 | [Overview TBA]() | The tester program will be released shortly|
+| [MS3](#milestone-3) | V0.9 | [Join overview session at 9:50 on Wed Mar 23]() | The tester program will be released shortly|
 |  | V1.0 | |  Teseter program added |
 
 
